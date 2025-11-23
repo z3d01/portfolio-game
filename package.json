@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://username-github-anda.github.io/nama-repository-anda",
+  "homepage": "https://z3d01.github.io/portfolio-game",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
