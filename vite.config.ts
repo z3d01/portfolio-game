@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
     // PENTING: Ganti 'nama-repository-anda' dengan nama repo GitHub Anda.
     // Jika nama repo Anda 'portfolio-game', maka ubah menjadi '/portfolio-game/'
     // Jika deploy ke user.github.io (root), biarkan '/'
-    base: '/nama-repository-anda/', 
+    base: '/portfolio-game/', 
     plugins: [react()],
     define: {
       'process.env.API_KEY': JSON.stringify(env.API_KEY)
